@@ -35,6 +35,3 @@ const lightbox = new SimpleLightbox('.gallery a', {
 });
 
 lightbox.on('show.simplelightbox');
-
-console.log(galleryItems);
-console.log(SimpleLightbox);
